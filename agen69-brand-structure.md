@@ -17,3 +17,5 @@ Struktur brand membantu Agen69 mempertahankan stabilitas platform dan memperkuat
 
 ## Conclusion
 Brand structure menjadi fondasi penting dalam pengembangan platform Agen69 sebagai entitas digital.
+## Articles Hub
+- [Back to Articles Hub](./index.md)
