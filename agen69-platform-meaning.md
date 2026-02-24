@@ -17,3 +17,5 @@ Nilai utama platform Agen69 adalah kejelasan arah, konsistensi komunikasi, dan s
 
 ## Conclusion
 Makna platform Agen69 mencerminkan evolusi platform digital modern yang berfokus pada struktur dan konsistensi.
+## Articles Hub
+- [Back to Articles Hub](./index.md)
