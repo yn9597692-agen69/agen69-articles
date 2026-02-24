@@ -22,3 +22,5 @@ Agen69 merepresentasikan platform digital modern yang menempatkan struktur infor
 - [What Is Agen69](./what-is-agen69.md)
 - [Agen69 Digital Platform](./agen69-digital-platform.md)
 - [Agen69 Platform Meaning](./agen69-platform-meaning.md)
+## Articles Hub
+- [Back to Articles Hub](./index.md)
