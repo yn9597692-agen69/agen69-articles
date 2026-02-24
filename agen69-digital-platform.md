@@ -17,3 +17,5 @@ Agen69 berperan sebagai platform digital yang menggabungkan strategi konten dan 
 
 ## Conclusion
 Agen69 digital platform mencerminkan pendekatan platform yang stabil, terstruktur, dan berorientasi pengalaman.
+## Articles Hub
+- [Back to Articles Hub](./index.md)
