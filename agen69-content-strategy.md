@@ -17,3 +17,5 @@ Strategi konten berperan dalam memperkuat ekosistem platform dan membangun konsi
 
 ## Conclusion
 Pendekatan strategi konten Agen69 mencerminkan pengembangan platform digital modern yang berorientasi struktur dan stabilitas.
+## Articles Hub
+- [Back to Articles Hub](./index.md)
